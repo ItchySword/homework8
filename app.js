@@ -31,7 +31,7 @@ main();
 function main(){
     showGreeting(NAME);
     createProjs();
-    createEduTable();
+    //createEduTable();
 }
 
 
